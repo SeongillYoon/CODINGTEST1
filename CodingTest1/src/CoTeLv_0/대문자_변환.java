@@ -1,6 +1,6 @@
 package CoTeLv_0;
 
-public class uppercase {
+public class 대문자_변환 {
 	public static void main(String[] args) {
 		
 		String myString = "aBcDeFg";
