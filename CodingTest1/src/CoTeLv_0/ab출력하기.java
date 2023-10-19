@@ -11,6 +11,7 @@ public class ab출력하기 {
 
         System.out.println("a = " + a);
         System.out.println("b = " + b);
+        
 	}
 
 }
